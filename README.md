@@ -1,4 +1,4 @@
-# Raghuveer's Portfolio 🚀  
+# Raghuveer's Portfolio
 
 Welcome to my GitHub portfolio! This repository showcases my work, projects, and experience in **Azure, DevOps, Automation, and Infrastructure Management**.
 
@@ -32,7 +32,6 @@ I am a **Tier 2 Support Engineer**, assisting DevOps and Development teams in ma
 - Worked on **legacy SQL data updates** to improve performance.  
 - Enhanced **stored procedures** for application databases.  
 
-More projects 👉 [View in Repositories](https://github.com/your-github-username?tab=repositories)  
 
 ---
 
