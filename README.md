@@ -50,7 +50,7 @@ More projects 👉 [View in Repositories](https://github.com/your-github-usernam
 ✅ **Networking:** DNS Proxy, Private DNS Zones, NAT Gateway  
 ✅ **Database:** SQL Server, Stored Procedures, Data Migration  
 
-📄 **[Download Full Resume](https://your-resume-link.com)**  
+📄 **[Download Full Resume](https://github.com/raghuveer28/Raghuveer_Arkathala_Resume/blob/main/Raghu.Azure.pdf)**  
 
 ---
 
