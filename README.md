@@ -1,5 +1,4 @@
 # Raghuveer's Portfolio  
-![Raghuveer Arkathala](assets/images/ProfileImage.jpeg)
 
 ---  
 
