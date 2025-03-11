@@ -56,9 +56,9 @@ More projects 👉 [View in Repositories](https://github.com/your-github-usernam
 
 ## 📬 Contact  
 
-📧 **Email:** your.email@example.com  
-🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)  
-🐙 **GitHub:** [Your GitHub](https://github.com/your-github-username)  
+📧 **Email:** raghu.raghu@live.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/raghuveerarkathala/  
+🐙 **GitHub:** https://github.com/raghuveer28/raghuveer-portfolio 
 
 ---
 
