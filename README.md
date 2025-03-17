@@ -40,4 +40,4 @@ I am an **Azure Consultant / Administrator** with experience in **system design,
 
 ---  
 
-⭐ **Feel free to explore my work and connect with me!**  
+
